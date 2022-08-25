@@ -56,13 +56,15 @@ background: linear-gradient(147deg, rgba(247,108,175,1) 5%, rgba(238,112,112,1) 
 }
 
 ul li{
-   
-    
+   position: absolute;
+    display: inline-block;
+    margin: 10px;
+    padding: 20px;
     
 }
 
 ul li a{
-    position: absolute;
+    
     z-index: 3;
     color: black;
 }
