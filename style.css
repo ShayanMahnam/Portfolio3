@@ -54,3 +54,15 @@ background: linear-gradient(147deg, rgba(247,108,175,1) 5%, rgba(238,112,112,1) 
     color: #fff;
     opacity: 1;
 }
+
+ul li{
+   
+    
+    
+}
+
+ul li a{
+    position: absolute;
+    z-index: 3;
+    color: black;
+}
